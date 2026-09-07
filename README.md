@@ -1,6 +1,6 @@
 # Createas
 
-VB6 working copy of `Createas` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`:  DAGS.
+DAGS VB6 "create as" installer helper: picks an `.msi` (or other app) and runs it under alternate credentials via `LogonUser` / `CreateProcessAsUser` (NT4) or `CreateProcessWithLogonW` (Win2K). Open `Createas.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
